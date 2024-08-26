@@ -1,16 +1,31 @@
-## Hi there 👋
+# Torin Etheridge
 
-<!--
-**torinriley/torinriley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Enthusiast | Full-Stack Developer | Startup Founder**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about innovating at the intersection of technology and sustainability, with a focus on AI development, machine learning, and scalable systems. Below are some highlights of my work and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Highlights
+
+### 🧠 AI and Machine Learning
+- **EcoGrow AI**: Developed an AI-powered platform to optimize crop resilience against climate change using regional climate data. Improved model architecture by 17% and reduced MSE from 0.0007 to 0.00012.
+- **ACON ACON (Adaptive Correlation Optimization Network) is an innovative machine learning framework designed to maximize adaptability and optimization across diverse datasets and tasks.
+### 💻 Full-Stack Development
+- **EcoGrow App**: Built a full-stack application to monitor plant health, with a user-friendly interface developed in Swift and a backend powered by Firebase.
+- **AutoDep**: Developed an open-source tool that automates dependency tracking and generates requirements files, streamlining development workflows.
+
+### 🚀 Startup Experience
+- **Founder & Lead Engineer at EcoGrow AI**: Led the development of AI-driven solutions for sustainable agriculture, managing the project from ideation to deployment.
+
+### 📝 Publications
+- **Teaching AI to Think**: An exploration of the Reflective Dialogue System (RDS) framework, published on Medium.
+- **A Better ML Library - ACON**: A detailed analysis of the ACON machine learning library, highlighting its advantages and applications.
+
+### 🌐 Open Source Contributions
+- Actively contributing to open-source projects, with a focus on AI, machine learning, and development tools.
+
+## Get in Touch
+
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/torin-etheridge-921694299/)
+- **Medium**: [Read my articles](https://medium.com/@torinriley)
+- **Featured Repositories**: [ACON](https://github.com/torinriley/acon) | [EcoGrow AI](https://github.com/torinriley/ecogrow-ai) | [AutoDep](https://github.com/torinriley/autodep)
+- [**EcoGrow AI**](https://www.ecogrowai.com)
