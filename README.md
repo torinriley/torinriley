@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I'm passionate about innovating at the intersectio
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/torin-etheridge-921694299/)
 - **Medium**: [Read my articles](https://medium.com/@torinriley220)
-- **Featured Repositories**: [ACON](https://github.com/torinriley/acon) | [EcoGrow AI](https://github.com/torinriley/ecogrow-ai) | [AutoDep](https://github.com/torinriley/autodep)
+- **Featured Repositories**: [ACON](https://github.com/torinriley/Adaptive-Correlation-Optimization-Network-ACON/tree/main/acon) | [AutoDep](https://github.com/torinriley/autodep)
 - [**EcoGrow AI**](https://www.ecogrowai.com)
