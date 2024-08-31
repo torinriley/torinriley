@@ -6,21 +6,22 @@ Welcome to my GitHub profile! I'm passionate about innovating at the intersectio
 
 ## Key Highlights
 
-### 🧠 AI and Machine Learning
+### AI and Machine Learning
 - **EcoGrow AI**: Developed an AI-powered platform to optimize crop resilience against climate change using regional climate data. Improved model architecture by 17% and reduced MSE from 0.0007 to 0.00012.
-- **ACON ACON (Adaptive Correlation Optimization Network) is an innovative machine learning framework designed to maximize adaptability and optimization across diverse datasets and tasks.
-### 💻 Full-Stack Development
+- **ACON [ACON](https://github.com/torinriley/Adaptive-Correlation-Optimization-Network-ACON.git)**  (Adaptive Correlation Optimization Network) is an innovative machine learning framework designed to maximize adaptability and optimization across diverse datasets and tasks.
+- **MetaForm [MetaForm](https://github.com/torinriley/MetaForm.git)**  MetaForm is an open-source transformer framework built from scratch to provide a complete set of tools for developing advanced machine learning models, particularly in NLP. It offers customizable layers, efficient training utilities, and matrix operations without relying on external libraries.
+### Full-Stack Development
 - **EcoGrow App**: Built a full-stack application to monitor plant health, with a user-friendly interface developed in Swift and a backend powered by Firebase.
 - **AutoDep**: Developed an open-source tool that automates dependency tracking and generates requirements files, streamlining development workflows.
 
-### 🚀 Startup Experience
+### Startup Experience
 - **Founder & Lead Engineer at EcoGrow AI**: Led the development of AI-driven solutions for sustainable agriculture, managing the project from ideation to deployment.
 
-### 📝 Publications
+### Publications
 - **Teaching AI to Think**: An exploration of the Reflective Dialogue System (RDS) framework, published on Medium.
 - **A Better ML Library - ACON**: A detailed analysis of the ACON machine learning library, highlighting its advantages and applications.
 
-### 🌐 Open Source Contributions
+### Open Source Contributions
 - Actively contributing to open-source projects, with a focus on AI, machine learning, and development tools.
 
 ## Get in Touch
