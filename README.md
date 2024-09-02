@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm passionate about innovating at the intersectio
 - **ACON [ACON](https://github.com/torinriley/Adaptive-Correlation-Optimization-Network-ACON.git)**  (Adaptive Correlation Optimization Network) is an innovative machine learning framework designed to maximize adaptability and optimization across diverse datasets and tasks.
 - **MetaForm [MetaForm](https://github.com/torinriley/MetaForm.git)**  MetaForm is an open-source transformer framework built from scratch to provide a complete set of tools for developing advanced machine learning models, particularly in NLP. It offers customizable layers, efficient training utilities, and matrix operations without relying on external libraries.
 ### Full-Stack Development
+-**Mind Easel**: [Mind Easel](https://github.com/torinriley/MindEasel.git) A fully open-source tool to organize thoughts, and photos in a minimalist interface.
 - **EcoGrow App**: Built a full-stack application to monitor plant health, with a user-friendly interface developed in Swift and a backend powered by Firebase.
 - **AutoDep**: Developed an open-source tool that automates dependency tracking and generates requirements files, streamlining development workflows.
 
