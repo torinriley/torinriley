@@ -12,7 +12,6 @@
 [![CapitalRobotics](https://img.shields.io/badge/Capital_Robotics-black)](https://github.com/CapitalRobotics)
 
 ![Torin's GitHub stats](https://github-readme-stats.vercel.app/api?username=torinriley&show_icons=true&theme=transparent)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=torinriley&theme=transparent)
 [![Torin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=torinriley&bg_color=00000000&color=ffffff&line=00bfff&point=0077b6&area=true&area_color=add8e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 I’m Torin Etheridge (he/him), a passionate student, tech enthusiast, and startup founder. As the President and Founder of RDS AI Platforms, I lead a first-of-its-kind venture focused on developing Reflective AI frameworks designed to seamlessly integrate with any LLM (Large Language Model) API, revolutionizing the way AI interacts with and learns from human input.
