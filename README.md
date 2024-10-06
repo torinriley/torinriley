@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torin-etheridge-921694299/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@torinriley220) 
 [![CapitalRobotics](https://img.shields.io/badge/Capital_Robotics-black)](https://github.com/CapitalRobotics)
 
-![Torin's GitHub stats](https://github-readme-stats.vercel.app/api?username=torinriley&show_icons=true&theme=transparent)
+![Torin's GitHub stats](https://github-readme-stats.vercel.app/api?username=torinriley&show_icons=true&theme=transparent&card_width=1000)
 [![Torin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=torinriley&bg_color=00000000&color=ffffff&line=00bfff&point=0077b6&area=true&area_color=add8e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
