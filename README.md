@@ -2,6 +2,6 @@
 -----------
 I'm Torin Etheridge (he/him), a student and startup founder. I'm the President and Founder of RDS AI Platforms, a first-of-its-kind startup that develops Reflective AI frameworks for use with any LLM API. In addition to my startup, I enjoy robotics, UI design, and web development in my free time. I also work on and maintain open-source machine-learning projects here on GitHub.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/torin-etheridge-921694299/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@torinriley220) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torin-etheridge-921694299/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@torinriley220) 
 [![CapitalRobotics](https://img.shields.io/badge/Capital_Robotics-black)](https://github.com/CapitalRobotics)
 
