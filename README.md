@@ -1,4 +1,3 @@
-<img src="https://github.com/user-attachments/assets/f418708b-19fb-45d5-a7b7-187c0393008d" alt="Project Logo" width="200"/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -16,7 +15,7 @@
 [![Torin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=torinriley&bg_color=00000000&color=ffffff&line=00bfff&point=0077b6&area=true&area_color=add8e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+## About 👋
 I’m Torin Etheridge (he/him), a passionate student, tech enthusiast, and startup founder. As the President and Founder of RDS AI Platforms, I lead a first-of-its-kind venture focused on developing Reflective AI frameworks designed to seamlessly integrate with any LLM (Large Language Model) API, revolutionizing the way AI interacts with and learns from human input.
 
 Beyond my startup, I have a deep interest in a variety of technical fields. I enjoy robotics, where I apply my knowledge of AI to hardware, pushing the boundaries of what’s possible in automation. In my spare time, I also enjoy UI design that prioritizes user experience, alongside engaging in web development to create functional and visually appealing digital spaces.
