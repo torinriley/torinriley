@@ -15,6 +15,8 @@
 
 
 ## About 👋
+![Google Certified Data Analyst](https://img.shields.io/badge/Google%20Certified%20Data%20Analyst-blue?style=flat&logo=google&logoColor=white&color=4285F4)
+
 I’m Torin Etheridge (he/him), a passionate student, tech enthusiast, and startup founder. As the President and Founder of RDS AI Platforms, I lead a first-of-its-kind venture focused on developing Reflective AI frameworks designed to seamlessly integrate with any LLM (Large Language Model) API, revolutionizing the way AI interacts with and learns from human input.
 
 Beyond my startup, I have a deep interest in a variety of technical fields. I enjoy robotics, where I apply my knowledge of AI to hardware, pushing the boundaries of what’s possible in automation. In my spare time, I also enjoy UI design that prioritizes user experience, alongside engaging in web development to create functional and visually appealing digital spaces.
