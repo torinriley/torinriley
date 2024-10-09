@@ -10,8 +10,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 -----------
-![Torin's GitHub stats](https://github-readme-stats.vercel.app/api?username=torinriley&show_icons=true&theme=transparent&card_width=1000&title_color=ff7f00&icon_color=ff7f00&text_color=808080&bg_color=00000000)[![Torin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=torinriley&bg_color=00000000&color=ffffff&line=ff7f00&point=808080&area=true&area_color=ffcc99&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Torin's GitHub stats](https://github-readme-stats.vercel.app/api?username=torinriley&show_icons=true&theme=transparent&card_width=1000&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=00000000)
+[![Torin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=torinriley&bg_color=00000000&color=ffffff&line=00bfff&point=00bfff&area=true&area_color=add8e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## About 👋
 ![Google Certified Data Analyst](https://img.shields.io/badge/Google%20Certified%20Data%20Analyst-blue?style=flat&logo=google&logoColor=white&color=4285F4)
