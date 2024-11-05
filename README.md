@@ -19,7 +19,5 @@
 ## About 👋
 ![Google Certified Data Analyst](https://img.shields.io/badge/Google%20Certified%20Data%20Analyst-blue?style=flat&logo=google&logoColor=white&color=4285F4)
 
-I’m Torin Etheridge (he/him), a student, tech enthusiast, and machine learning applications engineer at RDS ai Platforms. I lead a first-of-its-kind open-source community focused on developing Reflective AI frameworks designed to seamlessly integrate with any LLM (Large Language Model) API, revolutionizing the way AI interacts with and learns from human input.
-
-I enjoy also robotics, where I apply my knowledge of AI to hardware, pushing the boundaries of what’s possible in automation. In my spare time, I also enjoy UI design that prioritizes user experience, alongside engaging in web development to create functional and visually appealing digital spaces.
+I’m Torin Etheridge (he/him) I'm and machine learning applications engineer at RDS ai Platforms. I lead a first-of-its-kind open-source community focused on developing Reflective AI frameworks designed to seamlessly integrate with any LLM (Large Language Model) API, revolutionizing the way AI interacts with and learns from human input.
 
