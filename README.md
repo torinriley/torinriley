@@ -55,16 +55,6 @@
 ![Red](https://img.shields.io/badge/-red?style=flat&color=red)
 ![Green](https://img.shields.io/badge/-green?style=flat&color=green)
 ![Red](https://img.shields.io/badge/-red?style=flat&color=red)
-![Green](https://img.shields.io/badge/-green?style=flat&color=green)
-![Red](https://img.shields.io/badge/-red?style=flat&color=red)
-![Green](https://img.shields.io/badge/-green?style=flat&color=green)
-![Red](https://img.shields.io/badge/-red?style=flat&color=red)
-![Green](https://img.shields.io/badge/-green?style=flat&color=green)
-![Red](https://img.shields.io/badge/-red?style=flat&color=red)
-![Green](https://img.shields.io/badge/-green?style=flat&color=green)
-![Red](https://img.shields.io/badge/-red?style=flat&color=red)
-![Green](https://img.shields.io/badge/-green?style=flat&color=green)
-
 
 --------
 
