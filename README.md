@@ -16,7 +16,3 @@
 ![Torin's GitHub stats](https://github-readme-stats.vercel.app/api?username=torinriley&show_icons=true&theme=transparent&card_width=1000&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=00000000)
 [![Torin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=torinriley&bg_color=00000000&color=ffffff&line=00bfff&point=00bfff&area=true&area_color=add8e6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## About
-
-I’m Torin Etheridge (he/him) I'm and machine learning applications engineer at RDS ai Platforms. I lead a first-of-its-kind open-source community focused on developing Reflective AI frameworks designed to seamlessly integrate with any LLM (Large Language Model) API, revolutionizing the way AI interacts with and learns from human input.
-
