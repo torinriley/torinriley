@@ -23,7 +23,6 @@ Self-taught ML engineer and full stack developer with expertise in deep learning
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📈 GitHub Stats
 
 ![Torin's GitHub stats](https://github-readme-stats.vercel.app/api?username=torinriley&show_icons=true&theme=transparent&card_width=1000&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=00000000)
 
