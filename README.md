@@ -1,19 +1,8 @@
 # Torin
 
-## 👨‍💻 ML Engineer & Full Stack Developer
-
-Building AI-powered solutions at [Forket.co](https://forket.co) — where machine learning meets meal planning. And working as a full stack dev at [neighbr.social](https://www.neighbr.social) a social media platform for local communitues to connect.
-
-### 🚀 About Me
-
 VeacStream - [![PyPI Downloads](https://static.pepy.tech/badge/vecstream)](https://pepy.tech/projects/vecstream)
 
 ACON - [![PyPI Downloads](https://static.pepy.tech/badge/acon)](https://pepy.tech/projects/acon)
-
-
-Self-taught ML engineer and full stack developer with expertise in deep learning frameworks and modern web technologies. Currently working on Forket.co, an AI-powered meal planning platform that's transforming how people approach nutrition and food preparation.
-
-### 🛠️ Tech Stack
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
