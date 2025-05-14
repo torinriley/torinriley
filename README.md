@@ -1,6 +1,6 @@
 # Torin
 
-VecStream - [![PyPI Downloads](https://static.pepy.tech/badge/vecstream)](https://pepy.tech/projects/vecstream)
+VeacStream - [![PyPI Downloads](https://static.pepy.tech/badge/vecstream)](https://pepy.tech/projects/vecstream)
 
 ACON - [![PyPI Downloads](https://static.pepy.tech/badge/acon)](https://pepy.tech/projects/acon)
 
