@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1><code>torin</code></h1>
-<sub><strong>MACHINE LEARNING ENGINEER</strong></sub>
+<sub><strong>FULL STACK ENGINEER</strong></sub>
 
 <br><br>
 
