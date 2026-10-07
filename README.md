@@ -27,6 +27,7 @@
 
 **[Relay](https://github.com/torinriley/Relay)** — distributed job queue built around leases, retries, and failure recovery  
 **[VecStream](https://github.com/torinriley/VecStream)** — from-scratch HNSW vector-search engine with measured ANN behavior
+**[Prism](https://github.com/torinriley/Prism)** — GPU-accelerated image-processing engine for Swift with custom Metal kernels and render-graph optimization.
 
 <br><br>
 
