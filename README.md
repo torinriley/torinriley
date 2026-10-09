@@ -16,8 +16,6 @@
 
 ### experience
 
-**Founder & CEO**, Xysera
-
 **Software Engineer Intern**, Deep Analytics LLC
 
 
