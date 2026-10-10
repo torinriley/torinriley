@@ -23,7 +23,7 @@
 
 ### projects
 
-**[Relay](https://github.com/torinriley/Relay)** - distributed job queue built around leases, retries, and failure recovery  
+**[alpaca.swift](https://github.com/torinriley/alpaca)** - Swift-native LLM inference engine with custom Metal kernels and GGUF support for Apple Silicon
 
 **[VecStream](https://github.com/torinriley/VecStream)** - from-scratch HNSW vector-search engine with measured ANN behavior
 
