@@ -1,6 +1,6 @@
 <div align="center">
 
-```text
+```code
 
  /__  ___/                          
    / /   ___      __     ( )   __   
@@ -46,8 +46,6 @@ SOFTWARE ENGINEER · ML Architecture
 **[alpaca.swift](https://github.com/torinriley/alpaca)** - Swift-native LLM inference engine with custom Metal kernels and GGUF support for Apple Silicon
 
 **[VecStream](https://github.com/torinriley/VecStream)** - from-scratch HNSW vector-search engine with measured ANN behavior
-
-**[Prism](https://github.com/torinriley/Prism)** - GPU-accelerated image-processing engine for Swift with custom Metal kernels and render-graph optimization.
 
 <br><br>
 
