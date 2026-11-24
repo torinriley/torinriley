@@ -1,27 +1,47 @@
 <div align="center">
 
-<h1><code>torin</code></h1>
-<sub><strong>SOFTWARE ENGINEER · SYSTEMS & ML INFRASTRUCTURE</strong></sub>
+```text
 
-<br><br>
+ /__  ___/                          
+   / /   ___      __     ( )   __   
+  / /  //   ) ) //  ) ) / / //   ) )
+ / /  //   / / //      / / //   / / 
+/ /  ((___/ / //      / / //   / /  
+
+```
+
+```text
+SOFTWARE ENGINEER · ML Architecture
+```
 </div>
+<p align="center">
+  <code>Python</code>
+  <code>C++</code>
+  <code>Rust</code>
+  <code>CUDA</code>
+  <code>PyTorch</code>
+  <code>Linux</code>
+  <code>PostgreSQL</code>
+  <code>Redis</code>
+  <code>Docker</code>
+  <code>AWS</code>
+  <code>Git</code>
+</p>
 
 <br>
 
-### stack
+### Experience
 
-`Python` `C++` `Rust` `CUDA` `PyTorch` `Linux` `PostgreSQL` `Redis` `Docker` `AWS` `Git`
-
-<br>
-
-### experience
+**Founder, CEO** Xysera
 
 **Software Engineer Intern**, Deep Analytics LLC
 
 
 <br>
 
-### projects
+### Projects
+
+**[Aleno](https://github.com/torinriley/aleno)** - Native Swift Mac terminal emulator written in Rust. THE fastest terminal for Mac. 
 
 **[alpaca.swift](https://github.com/torinriley/alpaca)** - Swift-native LLM inference engine with custom Metal kernels and GGUF support for Apple Silicon
 
